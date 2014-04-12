@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<realtime xmlns="http://www.arizona.edu">
+   <Config xmlns="">
+	  <Port>50000</Port>
+	  <Host>128.196.93.171</Host>
+	  <Size>1024</Size>
+	  <backup>128.196.93.171</backup>
+	  <Stations>
+	      <Station>Speedway-Campbell</Station>
+	      <Station>Oracle-Orange</Station>
+	      <Station>Oracle-Ina</Station>
+	      <Station>Ina-Westward</Station>
+	      <Station>Oracle-Suffolk</Station>
+	      <Station>Ina-Paseo</Station>
+	      <Station>Speedway-Mountain</Station>
+	  </Stations>
+   </Config>
+</realtime>

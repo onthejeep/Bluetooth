@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<realtime xmlns="http://www.arizona.edu">
+   <Config xmlns="">
+	  <Location>Speedway-Tucson</Location>
+	  <Port>50000</Port>
+	  <Host>localhost</Host>
+   </Config>
+</realtime>
